@@ -1,0 +1,452 @@
+[30Mar2025 23:53:46.890] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[30Mar2025 23:53:46.893] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.26 by Ubuntu
+[30Mar2025 23:53:47.174] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirector CoreMod initialized successfully!
+[30Mar2025 23:53:47.281] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30Mar2025 23:53:47.283] [main/INFO] [MixinBootstrap Launch/]: MixinBootstrap v1.1.0
+[30Mar2025 23:53:47.283] [main/INFO] [MixinBootstrap Launch/]: Mixin v0.8.4
+[30Mar2025 23:53:47.284] [main/INFO] [MixinBootstrap Launch/]: ModLauncher v8.1.3+8.1.3+main-8.1.x.c94d18ec (7.0)
+[30Mar2025 23:53:47.357] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/geoservertest/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[30Mar2025 23:53:48.183] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.265] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.272] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.278] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.286] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.295] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.299] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.303] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.306] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:48.310] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Mar2025 23:53:50.276] [main/ERROR] [mixin/]: Mixin config mostructures.mixins.json does not specify "minVersion" property
+[30Mar2025 23:53:50.339] [main/ERROR] [mixin/]: Mixin config boss_tools.mixin.json does not specify "minVersion" property
+[30Mar2025 23:53:50.532] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [someoneelse.betternetherreforged.mixin.MixinConnector]
+[30Mar2025 23:53:50.535] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[30Mar2025 23:53:50.537] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[30Mar2025 23:53:50.538] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.fuzs.easymagic.mixin.MixinConnector]
+[30Mar2025 23:53:50.549] [main/INFO] [someoneelse.betternetherreforged.BetterNether/]: Better Nether: Mixin Connected!
+[30Mar2025 23:53:50.555] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[30Mar2025 23:53:50.755] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 89 options available, 0 override(s) found
+[30Mar2025 23:53:51.881] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[30Mar2025 23:53:51.894] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/embeddedt/modernfix/forge/shadow/mixinextras/service/MixinExtrasVersion
+[30Mar2025 23:53:52.028] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/geoservertest/servidor_minecraft/config/supplementaries-registry.toml is not correct. Correcting
+[30Mar2025 23:53:52.029] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:52.029] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:52.030] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.general.creative_tab was corrected from null to its default, false. 
+[30Mar2025 23:53:52.031] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.general.dispensers was corrected from null to its default, true. 
+[30Mar2025 23:53:52.031] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.general.jar_tab was corrected from null to its default, false. 
+[30Mar2025 23:53:52.032] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.general.custom_configured_screen was corrected from null to its default, true. 
+[30Mar2025 23:53:52.032] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:52.033] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.planter was corrected from null to its default, true. 
+[30Mar2025 23:53:52.033] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.clock_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.033] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.pedestal was corrected from null to its default, true. 
+[30Mar2025 23:53:52.034] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.wind_vane was corrected from null to its default, true. 
+[30Mar2025 23:53:52.034] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.redstone_illuminator was corrected from null to its default, true. 
+[30Mar2025 23:53:52.034] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.notice_board was corrected from null to its default, true. 
+[30Mar2025 23:53:52.035] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.crank was corrected from null to its default, true. 
+[30Mar2025 23:53:52.036] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.jar was corrected from null to its default, true. 
+[30Mar2025 23:53:52.036] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.faucet was corrected from null to its default, true. 
+[30Mar2025 23:53:52.036] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.turn_table was corrected from null to its default, true. 
+[30Mar2025 23:53:52.037] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.spring_launcher was corrected from null to its default, true. 
+[30Mar2025 23:53:52.037] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.speaker_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.037] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.sign_post was corrected from null to its default, true. 
+[30Mar2025 23:53:52.038] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.hanging_sign was corrected from null to its default, true. 
+[30Mar2025 23:53:52.039] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.bellows was corrected from null to its default, true. 
+[30Mar2025 23:53:52.039] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.sconce was corrected from null to its default, true. 
+[30Mar2025 23:53:52.039] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.sconce_green was corrected from null to its default, false. 
+[30Mar2025 23:53:52.040] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.candelabra was corrected from null to its default, true. 
+[30Mar2025 23:53:52.040] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.cage was corrected from null to its default, true. 
+[30Mar2025 23:53:52.041] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.item_shelf was corrected from null to its default, true. 
+[30Mar2025 23:53:52.042] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.sconce_lever was corrected from null to its default, true. 
+[30Mar2025 23:53:52.042] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.cog_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.043] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.candle_holder was corrected from null to its default, true. 
+[30Mar2025 23:53:52.043] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.globe was corrected from null to its default, true. 
+[30Mar2025 23:53:52.043] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.hourglass was corrected from null to its default, true. 
+[30Mar2025 23:53:52.043] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.sack was corrected from null to its default, true. 
+[30Mar2025 23:53:52.044] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.blackboard was corrected from null to its default, true. 
+[30Mar2025 23:53:52.045] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.safe was corrected from null to its default, true. 
+[30Mar2025 23:53:52.045] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.wrench was corrected from null to its default, true. 
+[30Mar2025 23:53:52.046] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.copper_lantern was corrected from null to its default, true. 
+[30Mar2025 23:53:52.046] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.flute was corrected from null to its default, true. 
+[30Mar2025 23:53:52.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.gold_trapdoor was corrected from null to its default, true. 
+[30Mar2025 23:53:52.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.gold_door was corrected from null to its default, true. 
+[30Mar2025 23:53:52.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.bamboo_spikes was corrected from null to its default, true. 
+[30Mar2025 23:53:52.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.bamboo_spikes_tipped was corrected from null to its default, true. 
+[30Mar2025 23:53:52.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.stone_lamp was corrected from null to its default, true. 
+[30Mar2025 23:53:52.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.end_stone_lamp was corrected from null to its default, true. 
+[30Mar2025 23:53:52.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.blackstone_lamp was corrected from null to its default, true. 
+[30Mar2025 23:53:52.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.deepslate_lamp was corrected from null to its default, true. 
+[30Mar2025 23:53:52.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.checker_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.050] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.netherite_door was corrected from null to its default, true. 
+[30Mar2025 23:53:52.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.netherite_trapdoor was corrected from null to its default, true. 
+[30Mar2025 23:53:52.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.pancake was corrected from null to its default, true. 
+[30Mar2025 23:53:52.051] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.lock_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.flax was corrected from null to its default, true. 
+[30Mar2025 23:53:52.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.rope was corrected from null to its default, true. 
+[30Mar2025 23:53:52.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.rope_arrow was corrected from null to its default, true. 
+[30Mar2025 23:53:52.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.pulley_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.fodder was corrected from null to its default, true. 
+[30Mar2025 23:53:52.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.bomb was corrected from null to its default, true. 
+[30Mar2025 23:53:52.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.crimson_lantern was corrected from null to its default, true. 
+[30Mar2025 23:53:52.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.magma_cream_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.stick was corrected from null to its default, true. 
+[30Mar2025 23:53:52.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.blaze_rod was corrected from null to its default, true. 
+[30Mar2025 23:53:52.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.daub was corrected from null to its default, true. 
+[30Mar2025 23:53:52.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.wattle_and_daub was corrected from null to its default, true. 
+[30Mar2025 23:53:52.056] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.timber_frame was corrected from null to its default, true. 
+[30Mar2025 23:53:52.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.flag was corrected from null to its default, true. 
+[30Mar2025 23:53:52.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.stone_tile was corrected from null to its default, true. 
+[30Mar2025 23:53:52.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.goblet was corrected from null to its default, true. 
+[30Mar2025 23:53:52.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.raked_gravel was corrected from null to its default, true. 
+[30Mar2025 23:53:52.058] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.statue was corrected from null to its default, true. 
+[30Mar2025 23:53:52.059] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.iron_gate was corrected from null to its default, true. 
+[30Mar2025 23:53:52.059] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.feather_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.059] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.flint_block was corrected from null to its default, true. 
+[30Mar2025 23:53:52.060] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.slingshot was corrected from null to its default, true. 
+[30Mar2025 23:53:52.060] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.shulker_shell was corrected from null to its default, true. 
+[30Mar2025 23:53:52.060] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.candy was corrected from null to its default, true. 
+[30Mar2025 23:53:52.061] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.amethyst_arrow was corrected from null to its default, false. 
+[30Mar2025 23:53:52.061] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.present was corrected from null to its default, true. 
+[30Mar2025 23:53:52.062] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.blocks.laser_block was corrected from null to its default, false. 
+[30Mar2025 23:53:52.062] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.entities was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:52.063] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key initialization.entities.firefly was corrected from null to its default, true. 
+[30Mar2025 23:53:52.075] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 168 options available, 1 override(s) found
+[30Mar2025 23:53:52.079] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Mar2025 23:53:52.183] [main/WARN] [mixin/]: Reference map 'untamedwilds.refmap.json' for untamedwilds.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Mar2025 23:53:52.193] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/geoservertest/servidor_minecraft/config/dramaticdoors-common.toml is not correct. Correcting
+[30Mar2025 23:53:52.194] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mixins was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:52.194] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mixins.waterloggable_doors was corrected from null to its default, false. 
+[30Mar2025 23:53:52.195] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mixins.waterloggable_fence_gates was corrected from null to its default, false. 
+[30Mar2025 23:53:53.503] [main/ERROR] [mixin/]: The specified mixin 'com.brutalbosses.mixin.BasePressurePlateBlockMixin' was not found
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: The specified mixin 'com.brutalbosses.mixin.BasePressurePlateBlockMixin' was not found
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:864) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepareMixins(MixinConfig.java:850) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.prepare(MixinConfig.java:775) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:539) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154) ~[modlauncher-8.1.3.jar:8.1.3+8.1.3+main-8.1.x.c94d18ec]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+Caused by: java.lang.ClassNotFoundException: The specified mixin 'com.brutalbosses.mixin.BasePressurePlateBlockMixin' was not found
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.loadMixinClass(MixinInfo.java:1313) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.<init>(MixinInfo.java:857) ~[mixin-0.8.4.jar:0.8.4+Jenkins-b308.git-2accda5000f7602229606b39437565542cc6fba4]
+	... 27 more
+[30Mar2025 23:53:53.724] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via org.embeddedt.modernfix.forge.shadow.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[30Mar2025 23:53:53.873] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Unit
+[30Mar2025 23:53:53.923] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/datafixers/util/Unit
+[30Mar2025 23:53:54.011] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: ModernFix reached bootstrap stage (7.908 s after launch)
+[30Mar2025 23:53:54.073] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Util$IdentityStrategy
+[30Mar2025 23:53:55.016] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction
+[30Mar2025 23:53:55.018] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$AxisDirection
+[30Mar2025 23:53:55.018] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Axis
+[30Mar2025 23:53:55.136] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/material/PushReaction
+[30Mar2025 23:53:55.328] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[30Mar2025 23:53:55.340] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/Direction$Plane
+[30Mar2025 23:53:55.341] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawOrientation
+[30Mar2025 23:53:55.347] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/AttachFace
+[30Mar2025 23:53:55.348] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BellAttachment
+[30Mar2025 23:53:55.348] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/WallHeight
+[30Mar2025 23:53:55.349] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RedstoneSide
+[30Mar2025 23:53:55.350] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoubleBlockHalf
+[30Mar2025 23:53:55.350] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/Half
+[30Mar2025 23:53:55.351] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/RailShape
+[30Mar2025 23:53:55.352] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BedPart
+[30Mar2025 23:53:55.353] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ChestType
+[30Mar2025 23:53:55.354] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/ComparatorMode
+[30Mar2025 23:53:55.355] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/DoorHingeSide
+[30Mar2025 23:53:55.355] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/NoteBlockInstrument
+[30Mar2025 23:53:55.356] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/PistonType
+[30Mar2025 23:53:55.357] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/SlabType
+[30Mar2025 23:53:55.358] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StairsShape
+[30Mar2025 23:53:55.359] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/StructureMode
+[30Mar2025 23:53:55.359] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/state/properties/BambooLeaves
+[30Mar2025 23:53:55.459] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/DyeColor
+[30Mar2025 23:53:55.513] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/potion/EffectType
+[30Mar2025 23:53:55.514] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/text/TextFormatting
+[30Mar2025 23:53:55.517] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/attributes/AttributeModifier$Operation
+[30Mar2025 23:53:55.604] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/PressurePlateBlock$Sensitivity
+[30Mar2025 23:53:55.610] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fuzs/diagonalfences/util/EightWayDirection
+[30Mar2025 23:53:55.627] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/AxisRotation
+[30Mar2025 23:53:56.390] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/SkullBlock$Types
+[30Mar2025 23:53:56.640] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Type
+[30Mar2025 23:53:56.641] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/Heightmap$Usage
+[30Mar2025 23:53:56.665] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/EntityClassification
+[30Mar2025 23:53:56.812] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/ai/goal/Goal$Flag
+[30Mar2025 23:53:57.309] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Carving
+[30Mar2025 23:53:57.375] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/GenerationStage$Decoration
+[30Mar2025 23:53:57.378] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/MineshaftStructure$Type
+[30Mar2025 23:53:57.380] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/RuinedPortalStructure$Location
+[30Mar2025 23:53:57.384] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/structure/OceanRuinStructure$Type
+[30Mar2025 23:53:57.411] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/gen/feature/jigsaw/JigsawPattern$PlacementBehaviour
+[30Mar2025 23:53:57.441] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/JigsawTileEntity$OrientationType
+[30Mar2025 23:53:57.461] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$TemperatureModifier
+[30Mar2025 23:53:57.463] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$RainType
+[30Mar2025 23:53:57.464] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/Biome$Category
+[30Mar2025 23:53:57.466] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/biome/BiomeAmbience$GrassColorModifier
+[30Mar2025 23:53:57.533] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType
+[30Mar2025 23:53:57.534] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/inventory/EquipmentSlotType$Group
+[30Mar2025 23:53:57.535] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/Enchantment$Rarity
+[30Mar2025 23:53:57.535] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/ProtectionEnchantment$Type
+[30Mar2025 23:53:57.535] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/enchantment/EnchantmentType
+[30Mar2025 23:53:57.632] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/Rarity
+[30Mar2025 23:53:57.654] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ArmorMaterial
+[30Mar2025 23:53:57.664] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/ItemTier
+[30Mar2025 23:53:57.670] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/minecart/AbstractMinecartEntity$Type
+[30Mar2025 23:53:57.672] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/item/BoatEntity$Type
+[30Mar2025 23:53:57.686] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/tileentity/BannerPattern
+[30Mar2025 23:53:57.711] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/scoreboard/ScoreCriteria$RenderType
+[30Mar2025 23:53:57.723] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/chunk/ChunkStatus$Type
+[30Mar2025 23:53:57.986] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mojang/brigadier/arguments/StringArgumentType$StringType
+[30Mar2025 23:53:58.033] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: Vanilla bootstrap took 4018 milliseconds
+[30Mar2025 23:53:58.058] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSidedProvider
+[30Mar2025 23:53:58.126] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkDirection
+[30Mar2025 23:53:58.128] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/LogicalSide
+[30Mar2025 23:53:58.159] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/config/ModConfig$Type
+[30Mar2025 23:53:58.175] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage
+[30Mar2025 23:53:58.178] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/ModLoadingStage$ThreadSelector
+[30Mar2025 23:53:58.196] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/geoservertest/servidor_minecraft/config/connectivity-common.toml is not correct. Correcting
+[30Mar2025 23:53:58.197] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:58.197] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings.disableLoginLimits was corrected from null to its default, true. 
+[30Mar2025 23:53:58.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings.disablePacketLimits was corrected from null to its default, true. 
+[30Mar2025 23:53:58.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings.debugPrintMessages was corrected from null to its default, false. 
+[30Mar2025 23:53:58.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings.logintimeout was corrected from null to its default, 2400. 
+[30Mar2025 23:53:58.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings.disconnectTimeout was corrected from null to its default, 60. 
+[30Mar2025 23:53:58.198] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings.packetHistoryMinutes was corrected from null to its default, 5. 
+[30Mar2025 23:53:58.199] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Connectivity settings.showFullResourceLocationException was corrected from null to its default, false. 
+[30Mar2025 23:53:58.208] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Mar2025 23:53:58.210] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Mar2025 23:53:58.210] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Mar2025 23:53:58.210] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Mar2025 23:53:58.238] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/geoservertest/servidor_minecraft/config/dragonfight-common.toml is not correct. Correcting
+[30Mar2025 23:53:58.238] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Adventure mod settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:58.239] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Adventure mod settings.dragonDifficulty was corrected from null to its default, 2. 
+[30Mar2025 23:53:58.239] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Adventure mod settings.printDragonPhases was corrected from null to its default, false. 
+[30Mar2025 23:53:58.239] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Adventure mod settings.disableDragonAreaSpawns was corrected from null to its default, true. 
+[30Mar2025 23:53:58.239] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Adventure mod settings.forbidspawnoncrystaldestroydenMobs was corrected from null to its default, [minecraft:phantom]. 
+[30Mar2025 23:53:58.240] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Adventure mod settings.spawnoncrystalrespawn was corrected from null to its default, [minecraft:blaze]. 
+[30Mar2025 23:53:58.240] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Adventure mod settings.spawnwhilelanded was corrected from null to its default, [minecraft:enderman]. 
+[30Mar2025 23:53:58.277] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+[30Mar2025 23:53:58.277] [main/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to load class net.coderbot.iris.Iris
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	at jdk.internal.reflect.GeneratedConstructorAccessor36.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+	at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+[30Mar2025 23:53:58.279] [main/FATAL] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Failed to build mod
+java.lang.reflect.InvocationTargetException: null
+	at jdk.internal.reflect.GeneratedConstructorAccessor36.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+	at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+Caused by: net.minecraftforge.fml.ModLoadingException: Oculus has class loading errors
+§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:53) ~[forge:36.2]
+	... 39 more
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	... 39 more
+[30Mar2025 23:53:58.289] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/FramedToolType
+[30Mar2025 23:53:58.290] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xfacthd/framedblocks/common/data/BlockType
+[30Mar2025 23:53:58.354] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Mar2025 23:53:58.355] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Mar2025 23:53:58.369] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/fuzs/easymagic/element/EasyEnchantingElement$ShowEnchantments
+[30Mar2025 23:53:58.380] [main/INFO] [Puzzles Lib/]: Registering element visualworkbench:visual_workbench
+[30Mar2025 23:53:58.391] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/minecraftabnormals/abnormals_core/common/world/storage/tracking/SyncType
+[30Mar2025 23:53:58.397] [main/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/geoservertest/servidor_minecraft/config/libraryferret_1.properties created and initialized with default value
+[30Mar2025 23:53:58.437] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/geoservertest/servidor_minecraft/config/smoothchunk-common.toml is not correct. Correcting
+[30Mar2025 23:53:58.438] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:58.438] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category.chunkSaveDelay was corrected from null to its default, 300. 
+[30Mar2025 23:53:58.438] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category.debugLogging was corrected from null to its default, false. 
+[30Mar2025 23:53:58.447] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/mcmoddev/golems/golem_stats/GolemContainer$SwimMode
+[30Mar2025 23:53:58.464] [main/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/AllSections
+[30Mar2025 23:53:58.485] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/geoservertest/servidor_minecraft/config/brutalbosses-common.toml is not correct. Correcting
+[30Mar2025 23:53:58.485] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category was corrected from null to its default, SimpleCommentedConfig:{}. 
+[30Mar2025 23:53:58.485] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category.printChestLoottableOnOpen was corrected from null to its default, false. 
+[30Mar2025 23:53:58.486] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category.globalDifficultyMultiplier was corrected from null to its default, 1.0. 
+[30Mar2025 23:53:58.486] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Config category.globalBossSpawnChance was corrected from null to its default, 30. 
+[30Mar2025 23:53:58.496] [main/INFO] [Puzzles Lib/]: Registering element diagonalfences:diagonal_fences
+[30Mar2025 23:53:58.505] [main/FATAL] [net.minecraftforge.fml.ModLoader/CORE]: Failed to initialize mod containers
+net.minecraftforge.fml.ModLoadingException: Oculus has class loading errors
+§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:53) ~[forge:36.2]
+	at jdk.internal.reflect.GeneratedConstructorAccessor36.newInstance(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider$FMLModTarget.loadMod(FMLJavaModLanguageProvider.java:62) ~[forge:36.2]
+	at net.minecraftforge.fml.ModLoader.buildModContainerFromTOML(ModLoader.java:288) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$buildMods$29(ModLoader.java:267) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1764) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.buildMods(ModLoader.java:269) ~[forge:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$11(ModLoader.java:169) ~[forge:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1655) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:578) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:171) ~[forge:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.<init>(FMLModContainer.java:47) ~[forge:36.2]
+	... 39 more
+[30Mar2025 23:53:58.532] [main/INFO] [STDOUT/]: [net.minecraft.crash.CrashReport:func_85057_a:196]: Negative index in crash report handler (16/18)
+[30Mar2025 23:53:58.538] [main/FATAL] [net.minecraftforge.fml.server.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-03-30_23.53.58-fml.txt
+[30Mar2025 23:53:58.545] [main/FATAL] [net.minecraft.server.Main/]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	Oculus has class loading errors
+§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screen/Screen for invalid dist DEDICATED_SERVER
+]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:176) ~[forge:?]
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:30) ~[forge:?]
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?]
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?]
