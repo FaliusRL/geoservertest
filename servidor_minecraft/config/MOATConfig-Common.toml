@@ -1,0 +1,271 @@
+
+["Ore Generation"]
+
+	["Ore Generation"."Generate ore?"]
+		#Generate tin ore. Default = true
+		"tin ore to generate" = true
+		#Generate copper ore. Default = true
+		"copper ore to generate" = true
+		#Generate silver ore. Default = true
+		"silver ore to generate" = true
+		#Generate platinum ore. Default = true
+		"platinum ore to generate" = true
+		#Generate lead ore. Default = true
+		"lead ore to generate" = true
+
+	["Ore Generation"."Max vein size"]
+		#The max vein size of tin ore. Default = 15
+		"tin ore max vein size" = 15
+		#The max vein size of copper ore. Default = 14
+		"copper ore max vein size" = 14
+		#The max vein size of silver ore. Default = 9
+		"silver ore max vein size" = 9
+		#The max vein size of platinum ore. Default = 8
+		"platinum ore max vein size" = 8
+		#The max vein size of lead ore. Default = 7
+		"lead ore max vein size" = 7
+
+	["Ore Generation"."Min height"]
+		#The min height of tin ore. Default = 0
+		"tin ore min height" = 0
+		#The min height of copper ore. Default = 0
+		"copper ore min height" = 0
+		#The min height of silver ore. Default = 0
+		"silver ore min height" = 0
+		#The min height of platinum ore. Default = 0
+		"platinum ore min height" = 0
+		#The min height of lead ore. Default = 0
+		"lead ore min height" = 0
+
+	["Ore Generation"."Max height"]
+		#The max height of tin ore. Default = 80
+		"tin ore max height" = 80
+		#The max height of copper ore. Default = 64
+		"copper ore max height" = 64
+		#The max height of silver ore. Default = 24
+		"silver ore max height" = 24
+		#The max height of platinum ore. Default = 16
+		"platinum ore max height" = 16
+		#The max height of lead ore. Default = 48
+		"lead ore max height" = 48
+
+	["Ore Generation"."Veins per chunk"]
+		#The amount of veins per chunk of tin ore. Default = 16
+		"tin ore veins per chunk" = 16
+		#The amount of veins per chunk of copper ore. Default = 20
+		"copper ore veins per chunk" = 20
+		#The amount of veins per chunk of silver ore. Default = 2
+		"silver ore veins per chunk" = 2
+		#The amount of veins per chunk of platinum ore. Default = 2
+		"platinum ore veins per chunk" = 2
+		#The amount of veins per chunk of lead ore. Default = 2
+		"lead ore veins per chunk" = 2
+
+["Harvest Levels"]
+
+	["Harvest Levels"."Ore harvest levels, Vanilla tools: Wood - 0, Stone/Gold - 1, Iron - 2, Diamond - 3, Netherite - 4"]
+		#The hardness of tin ore. Default = 0
+		"tin ore harvest level" = 0
+		#The hardness of copper ore. Default = 1
+		"copper ore harvest level" = 1
+		#The hardness of silver ore. Default = 1
+		"silver ore harvest level" = 1
+		#The hardness of platinum ore. Default = 2
+		"platinum ore harvest level" = 2
+		#The hardness of lead ore. Default = 0
+		"lead ore harvest level" = 0
+
+	["Harvest Levels"."Block harvest levels, Vanilla tools: Wood - 0, Stone/Gold - 1, Iron - 2, Diamond - 3, Netherite - 4"]
+		#The hardness of tin storage block. Default = 0
+		"tin storage block harvest level" = 0
+		#The hardness of copper storage block. Default = 1
+		"copper storage block harvest level" = 1
+		#The hardness of steel storage block. Default = 2
+		"steel storage block harvest level" = 2
+		#The hardness of bronze storage block. Default = 2
+		"bronze storage block harvest level" = 2
+		#The hardness of silver storage block. Default = 1
+		"silver storage block harvest level" = 1
+		#The hardness of platinum storage block. Default = 2
+		"platinum storage block harvest level" = 2
+		#The hardness of lead storage block. Default = 0
+		"lead storage block harvest level" = 0
+
+["Hardness Values"]
+
+	["Hardness Values"."Ore hardness values, Vanilla ores are 3, Netherite is 30"]
+		#The hardness of tin ore. Default = 3.0
+		"tin ore hardness" = 3.0
+		#The hardness of copper ore. Default = 3.0
+		"copper ore hardness" = 3.0
+		#The hardness of silver ore. Default = 3.0
+		"silver ore hardness" = 3.0
+		#The hardness of platinum ore. Default = 3.0
+		"platinum ore hardness" = 3.0
+		#The hardness of lead ore. Default = 3.0
+		"lead ore hardness" = 3.0
+
+	["Hardness Values"."Block hardness values, Gold - 3, Iron - 5, Coal - 5, Diamond - 5, Netherite - 50"]
+		#The hardness of tin storage block. Default = 3.0
+		"tin storage block hardness" = 3.0
+		#The hardness of copper storage block. Default = 5.0
+		"copper storage block hardness" = 5.0
+		#The hardness of steel storage block. Default = 5.0
+		"steel storage block hardness" = 5.0
+		#The hardness of bronze storage block. Default = 5.0
+		"bronze storage block hardness" = 5.0
+		#The hardness of silver storage block. Default = 5.0
+		"silver storage block hardness" = 5.0
+		#The hardness of platinum storage block. Default = 5.0
+		"platinum storage block hardness" = 5.0
+		#The hardness of lead storage block. Default = 3.0
+		"lead storage block hardness" = 3.0
+
+["Tool specs"]
+
+	["Tool specs"."Material harvest level"]
+		#The hardness of tin tools. Default = 1
+		"tin tools harvest level" = 1
+		#The hardness of copper tools. Default = 2
+		"copper tools harvest level" = 2
+		#The hardness of steel tools. Default = 3
+		"steel tools harvest level" = 3
+		#The hardness of bronze tools. Default = 3
+		"bronze tools harvest level" = 3
+		#The hardness of silver tools. Default = 2
+		"silver tools harvest level" = 2
+		#The hardness of platinum tools. Default = 3
+		"platinum tools harvest level" = 3
+		#The hardness of lead tools. Default = 1
+		"lead tools harvest level" = 1
+
+	["Tool specs"."Material max uses"]
+		#nulltin tools. Default = 150
+		"tin tools maxuses" = 150
+		#nullcopper tools. Default = 400
+		"copper tools maxuses" = 400
+		#nullsteel tools. Default = 800
+		"steel tools maxuses" = 800
+		#nullbronze tools. Default = 500
+		"bronze tools maxuses" = 500
+		#nullsilver tools. Default = 200
+		"silver tools maxuses" = 200
+		#nullplatinum tools. Default = 1200
+		"platinum tools maxuses" = 1200
+		#nulllead tools. Default = 150
+		"lead tools maxuses" = 150
+
+	["Tool specs"."Material speed"]
+		#The speed of tin tools. Default = 5.0
+		"tin tools speed" = 5.0
+		#The speed of copper tools. Default = 6.0
+		"copper tools speed" = 6.0
+		#The speed of steel tools. Default = 7.0
+		"steel tools speed" = 7.0
+		#The speed of bronze tools. Default = 8.0
+		"bronze tools speed" = 8.0
+		#The speed of silver tools. Default = 10.0
+		"silver tools speed" = 10.0
+		#The speed of platinum tools. Default = 8.0
+		"platinum tools speed" = 8.0
+		#The speed of lead tools. Default = 3.0
+		"lead tools speed" = 3.0
+
+	["Tool specs"."Material base damage"]
+		#The base damage of tin tools. Default = 1.0
+		"tin tools base damage" = 1.0
+		#The base damage of copper tools. Default = 2.0
+		"copper tools base damage" = 2.0
+		#The base damage of steel tools. Default = 3.0
+		"steel tools base damage" = 3.0
+		#The base damage of bronze tools. Default = 3.0
+		"bronze tools base damage" = 3.0
+		#The base damage of silver tools. Default = 2.0
+		"silver tools base damage" = 2.0
+		#The base damage of platinum tools. Default = 3.0
+		"platinum tools base damage" = 3.0
+		#The base damage of lead tools. Default = 1.0
+		"lead tools base damage" = 1.0
+
+	["Tool specs"."Material enchantment value"]
+		#The enchantment value of tin tools. Default = 8
+		"tin tools enchantment value" = 8
+		#The enchantment value of copper tools. Default = 12
+		"copper tools enchantment value" = 12
+		#The enchantment value of steel tools. Default = 16
+		"steel tools enchantment value" = 16
+		#The enchantment value of bronze tools. Default = 20
+		"bronze tools enchantment value" = 20
+		#The enchantment value of silver tools. Default = 30
+		"silver tools enchantment value" = 30
+		#The enchantment value of platinum tools. Default = 22
+		"platinum tools enchantment value" = 22
+		#The enchantment value of lead tools. Default = 6
+		"lead tools enchantment value" = 6
+
+["Armor Specs"]
+
+	["Armor Specs"."Material enchantment value"]
+		#The enchantment value of tin armor. Default = 8
+		"tin armor enchantment value" = 8
+		#The enchantment value of copper armor. Default = 12
+		"copper armor enchantment value" = 12
+		#The enchantment value of steel armor. Default = 16
+		"steel armor enchantment value" = 16
+		#The enchantment value of bronze armor. Default = 20
+		"bronze armor enchantment value" = 20
+		#The enchantment value of silver armor. Default = 30
+		"silver armor enchantment value" = 30
+		#The enchantment value of platinum armor. Default = 22
+		"platinum armor enchantment value" = 22
+		#The enchantment value of lead armor. Default = 6
+		"lead armor enchantment value" = 6
+
+	["Armor Specs"."Material durability multiplier"]
+		#The durability modifier of tin armor. Default = 8
+		"tin armor durability modifier" = 8
+		#The durability modifier of copper armor. Default = 18
+		"copper armor durability modifier" = 18
+		#The durability modifier of steel armor. Default = 25
+		"steel armor durability modifier" = 25
+		#The durability modifier of bronze armor. Default = 20
+		"bronze armor durability modifier" = 20
+		#The durability modifier of silver armor. Default = 13
+		"silver armor durability modifier" = 13
+		#The durability modifier of platinum armor. Default = 30
+		"platinum armor durability modifier" = 30
+		#The durability modifier of lead armor. Default = 8
+		"lead armor durability modifier" = 8
+
+	["Armor Specs"."Material toughness"]
+		#The toughness of tin armor. Default = 0.0
+		"tin armor toughness" = 0.0
+		#The toughness of copper armor. Default = 0.0
+		"copper armor toughness" = 0.0
+		#The toughness of steel armor. Default = 1.0
+		"steel armor toughness" = 1.0
+		#The toughness of bronze armor. Default = 1.0
+		"bronze armor toughness" = 1.0
+		#The toughness of silver armor. Default = 1.0
+		"silver armor toughness" = 1.0
+		#The toughness of platinum armor. Default = 2.0
+		"platinum armor toughness" = 2.0
+		#The toughness of lead armor. Default = 2.5
+		"lead armor toughness" = 2.5
+
+	["Armor Specs"."Material knockback resistance"]
+		#The knockback resistance of tin armor. Default = 0.0
+		"tin armor knockback resistance" = 0.0
+		#The knockback resistance of copper armor. Default = 0.0
+		"copper armor knockback resistance" = 0.0
+		#The knockback resistance of steel armor. Default = 0.0
+		"steel armor knockback resistance" = 0.0
+		#The knockback resistance of bronze armor. Default = 0.0
+		"bronze armor knockback resistance" = 0.0
+		#The knockback resistance of silver armor. Default = 0.0
+		"silver armor knockback resistance" = 0.0
+		#The knockback resistance of platinum armor. Default = 0.0
+		"platinum armor knockback resistance" = 0.0
+		#The knockback resistance of lead armor. Default = 0.2
+		"lead armor knockback resistance" = 0.2
+
