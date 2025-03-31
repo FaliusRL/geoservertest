@@ -1,149 +1,394 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1743384915967 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1743386049927 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384920265 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386053085 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384923392 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386056242 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384926565 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386060069 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384929741 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386063156 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384932931 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386066274 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384936061 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386069456 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384939299 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386072545 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384942630 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386075756 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384946357 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386078842 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384949675 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386082056 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384952823 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386085427 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384958805 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386088539 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384961903 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386091626 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384965000 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386094722 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384968081 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386097815 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384971352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386100959 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384975058 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386104238 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384978273 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386107458 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384981420 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386110795 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384984610 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386113900 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384987753 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386117048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384990846 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386121199 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384994057 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386124455 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743384997320 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386127556 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743385000582 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386130715 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743385003755 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386133843 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743385008421 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386137004 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743385011523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386140163 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1743385014601 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1743386143317 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386146402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386149516 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386152609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386155709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386158828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386161922 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386165077 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386168250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386171378 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386174480 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386178310 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386181459 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386185152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386188230 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386191307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386194417 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386197511 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386200647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386203845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386207082 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386210172 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386213268 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386216443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386219547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386222763 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386225874 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386229003 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386232148 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386235241 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386238361 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386241473 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386244561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386247735 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386251041 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386254143 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386257248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386260438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386264299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386268030 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386271747 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386274851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386277943 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386281037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386284123 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386287264 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386290365 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386293447 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386296646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+decision-ram.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1743386299874 tunnel running, 1 tunnels registered
 
 
 TUNNELS
